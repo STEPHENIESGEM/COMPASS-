@@ -1,9 +1,9 @@
 # COMPASS- : Roadmap to Summer 2026
-## Christmas in August -- Every Missed Milestone, Made Back By Summer
+## The Promise -- Every Sprint Delivered By Summer
 
 > Founded: March 14, 2026 (Pi Day)
 > Target Launch: August 2026
-> Mission: Kids home for summer. Beach party funded. Disneyland booked.
+> Mission: Build the greatest game ever made. Launch it to the world.
 
 ---
 
@@ -18,6 +18,7 @@ Every deadline in this roadmap is a promise, not a suggestion.
 ## Phase 1: Foundation Sprint (March 2026)
 
 ### Week 1 (March 14 - March 21)
+
 - [x] Repo created and named: COMPASS-
 - [x] README.md: Investor-grade, mission-locked
 - [x] docs/VISION.md: North star document
@@ -28,6 +29,7 @@ Every deadline in this roadmap is a promise, not a suggestion.
 - [ ] Create first GitHub Issues for each major workstream
 
 ### Week 2 (March 22 - March 31)
+
 - [ ] Design 3D shop environment wireframes
 - [ ] Define AI Companion personality and dialogue system
 - [ ] Set up Node.js / Python backend skeleton
@@ -61,7 +63,7 @@ Every deadline in this roadmap is a promise, not a suggestion.
 - [ ] Playable demo: 3 complete end-to-end repair scenarios
 - [ ] Leaderboard and certification badge system
 - [ ] Mobile-optimized build
-- [ ] Landing page live at ridewire.io (or subdomain)
+- [ ] Landing page live at ridewireai.com
 - [ ] First investor/partner deck published
 - [ ] 10 beta users giving feedback
 
@@ -85,13 +87,14 @@ Every deadline in this roadmap is a promise, not a suggestion.
 - [ ] First revenue generated
 - [ ] Community hub active (Discord or forum)
 - [ ] Press release distributed
-- [ ] **Beach party funded. Kids home. Christmas in August.**
+- [ ] **Mission complete. Built by RideWire LLC. Powered by Action Intelligence.**
 
 ---
 
 ## Velocity Metric: 13.4x Quantum Ratio
 
 This roadmap operates under the Action Intelligence 13.4 Quantum Velocity ratio:
+
 - 1 traditional development month = ~2.2 COMPASS- sprint days
 - Target: 6 months of traditional development compressed into the March-August window
 - Engine: AI-assisted build, no-code tools where available, parallel workstreams at all times
@@ -100,12 +103,8 @@ This roadmap operates under the Action Intelligence 13.4 Quantum Velocity ratio:
 
 ## Accountability
 
-This roadmap is recorded, timestamped, and committed to the public blockchain of GitHub history.
-Every checkbox completed is proof.
-Every commit is a heartbeat.
+This roadmap is recorded, timestamped, and committed to the public blockchain of GitHub history. Every checkbox completed is proof. Every commit is a heartbeat.
 
 **We are building in public. We are winning in public.**
 
----
-
-*COMPASS- : Find your direction. Master your craft. Ride your wire.*
+COMPASS- : Find your direction. Master your craft. Ride your wire.
